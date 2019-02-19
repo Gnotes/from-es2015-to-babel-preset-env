@@ -40,3 +40,4 @@
 - [tc39 | proposals, stage 规范草案仓库](https://github.com/tc39/proposals)
 - [如何区分Babel中的stage-0,stage-1,stage-2以及stage-3（一）](https://www.cnblogs.com/flyingzl/p/5501247.html)
 - [如何区分Babel中的stage-0,stage-1,stage-2以及stage-3（二）](https://www.cnblogs.com/flyingzl/p/5504203.html)
+- [再见，babel-preset-2015](https://zhuanlan.zhihu.com/p/29506685)
